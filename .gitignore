@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+shortener.db
+orchestrator.db
+.pytest_cache/
